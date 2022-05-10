@@ -1,5 +1,6 @@
 # a2-covid-trends-KhadijaY- 
 What does each row represent in each dataset?
+
 They represent the dates,county, state,flips, cases, and deaths.
 
 How many features(columns)are there for each dataset?
