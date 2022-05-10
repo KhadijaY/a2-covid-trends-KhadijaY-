@@ -10,10 +10,11 @@ What did you learn about the dataset when you calculated the state with the lowe
 The state with the lowest cases was Northern Mariana Island and from getting my answer, it showed that there arent many people from this state, which is a small island with a small population contracting covid. By testing my assumptions I am able to prove that I have drawn correct conclusions based on the test, it showed that my assumptions were valid. 
  
 Is the location with the highest number of cases the location with the most deaths? If not, why do you believe that may be the case? 
-
+For the most part yes.
  
  Why are there so many observations (counties) in the variable  
 # `lowest_in_each_state` (i.e., wouldn't you expect the number to be ~50)?
+Some counties have smaller populations which means that you aren't spreading the covid virus as much. 
 
 What surprised you the most throughout your analysis?
 I was most suprised at the ways we can analyse data and find the faults in our datasets. 
